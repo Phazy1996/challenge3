@@ -1,2 +1,2 @@
-# challenge3
-challenge 3
+# PickupsChallenge
+Making pickups in unity
